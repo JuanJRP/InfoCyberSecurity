@@ -1,5 +1,5 @@
 # InfoCyberSecurity
-is a simple application that provides information on key cybersecurity topics. The purpose of this project is to help users understand fundamental concepts and best practices in cybersecurity.
+Is a simple application that provides information on key cybersecurity topics. The purpose of this project is to help users understand fundamental concepts and best practices in cybersecurity.
 
 ## Features
 
